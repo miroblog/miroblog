@@ -17,8 +17,8 @@ B.S. in Computer Science and Engineering </p>
 
 
 # Awards 🏆
-### - VQA for the visually impaired @ MSIT & NIPA 2021 Online A.I. Challenge, 2nd place 🥈
+#### - VQA for the visually impaired @ MSIT & NIPA 2021 Online A.I. Challenge, 2nd place 🥈
 
-### - Sarcasm Detection Challenge @ ACL 2020, Figurative Language Processing, 1st place 🥇
+#### - Sarcasm Detection Challenge @ ACL 2020, Figurative Language Processing, 1st place 🥇
 
-### - Multi Label Action Detection Challenge @ ICCV 2019, Multimodal Video Analysis, 4th place
+#### - Multi Label Action Detection Challenge @ ICCV 2019, Multimodal Video Analysis, 4th place
