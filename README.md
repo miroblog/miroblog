@@ -12,7 +12,7 @@ B.S. in Computer Science and Engineering </p>
 ### *Research Engineer* | 2019.3 ~ 2021.11
 #### - RippleHouse(A.I. Powered Live Chat Simulator)
 #### - Clipper(Video Analysis Software)
-#### - AfreecaTV Esports Analyzer(Video Analysis Software)
+#### - AfreecaTV Esports Analyzer(ESports Analysis Software)
 #### - Video Chatter (Multi-Modal Chatbot)
 
 
